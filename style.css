@@ -113,12 +113,13 @@ h1{
     
 }
 .bot > img{
+    max-width: 80%;
     border-radius: 3rem;
-    margin: 3rem;
-    max-width: 60%;
+    
 }
 .bot{
     text-align: center;
+    margin-top: 2rem;
 }
 @media (max-width:600px){
     .first{
