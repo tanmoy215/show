@@ -26,9 +26,7 @@ h1{
     font-size: 1rem;
    
 }
-.left{
-  margin-left: 5rem;
-}
+
 .second{
     justify-content: center;
     padding: 1.2rem;
@@ -129,7 +127,6 @@ h1{
     .right{
         display: flex;
         flex-direction: column;
-        padding-left: 5rem;
         margin-top: 1.2rem;
     }
     .main_card{
