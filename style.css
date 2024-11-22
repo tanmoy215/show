@@ -115,7 +115,7 @@ h1{
 .bot > img{
     border-radius: 3rem;
     margin: 3rem;
-    max-height: 60%;
+    max-width: 60%;
 }
 .bot{
     text-align: center;
